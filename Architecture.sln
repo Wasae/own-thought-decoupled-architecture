@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoDotNetDAL", "AdoDotNetDAL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUIHelper", "CommonUIHelper\CommonUIHelper.csproj", "{39D928E2-E973-486B-95A5-77B913A7495F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUI", "CommonUI\CommonUI.csproj", "{597BDBD0-6FCA-4865-B187-32297BBF105B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{39D928E2-E973-486B-95A5-77B913A7495F}.Release|x64.Build.0 = Release|Any CPU
 		{39D928E2-E973-486B-95A5-77B913A7495F}.Release|x86.ActiveCfg = Release|Any CPU
 		{39D928E2-E973-486B-95A5-77B913A7495F}.Release|x86.Build.0 = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|x64.Build.0 = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Debug|x86.Build.0 = Debug|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|x64.ActiveCfg = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|x64.Build.0 = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|x86.ActiveCfg = Release|Any CPU
+		{597BDBD0-6FCA-4865-B187-32297BBF105B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
