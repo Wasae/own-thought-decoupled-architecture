@@ -1,0 +1,1 @@
+# own-thought-decoupled-architecture
