@@ -279,6 +279,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Unity.Container": {
               "target": "Package",
               "version": "[5.11.11, )"

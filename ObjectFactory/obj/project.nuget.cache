@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Qs+OXKw4H/WNs0vhjMUwW4a7CllOPW17uSQcM65Cun9PpMHRiMRd5XTlEFvNyP79QvGasppvtoqQyy+PuWihKQ==",
+  "dgSpecHash": "yN6W3HZ9t2eh8iF7uMG0sbejAk5oANuKSj5cHAVmhkdj9rOOIM0HdzsYifWLm4ZS9GRtp1DYECUr+3MgVLK42w==",
   "success": true,
   "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
