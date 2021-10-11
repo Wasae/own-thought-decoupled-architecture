@@ -1,0 +1,12 @@
+E:\Architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+E:\Architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+E:\Architecture\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+E:\Architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csprojAssemblyReference.cache
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb

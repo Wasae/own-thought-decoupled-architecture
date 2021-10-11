@@ -1,0 +1,15 @@
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\InterfaceBL.dll
+E:\Architecture\BusinessLogic\bin\Debug\net5.0\InterfaceBL.pdb
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csprojAssemblyReference.cache
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+E:\Architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb

@@ -1,0 +1,15 @@
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csprojAssemblyReference.cache
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfoInputs.cache
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfo.cs
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CoreCompileInputs.cache
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.deps.json
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.dll
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\ref\AoDotNetDAL.dll
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.pdb
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.dll
+E:\Architecture\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CopyComplete
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
+E:\Architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb

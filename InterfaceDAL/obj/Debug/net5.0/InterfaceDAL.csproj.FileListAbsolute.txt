@@ -1,0 +1,12 @@
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.csprojAssemblyReference.cache
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.AssemblyInfoInputs.cache
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.AssemblyInfo.cs
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.csproj.CoreCompileInputs.cache
+E:\Architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.deps.json
+E:\Architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.dll
+E:\Architecture\InterfaceDAL\bin\Debug\net5.0\ref\InterfaceDAL.dll
+E:\Architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.dll
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\ref\InterfaceDAL.dll
+E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.pdb
