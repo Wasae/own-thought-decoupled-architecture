@@ -10,3 +10,15 @@ E:\Architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.pdb
 E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.dll
 E:\Architecture\InterfaceDAL\obj\Debug\net5.0\ref\InterfaceDAL.dll
 E:\Architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.pdb
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.deps.json
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\bin\Debug\net5.0\ref\InterfaceDAL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.AssemblyInfo.cs
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\ref\InterfaceDAL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceDAL\obj\Debug\net5.0\InterfaceDAL.pdb

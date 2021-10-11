@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Architecture\\ObjectFactory\\ObjectFactory.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
       "projectName": "ObjectFactory",
-      "projectPath": "E:\\Architecture\\ObjectFactory\\ObjectFactory.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Architecture\\ObjectFactory\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -717,17 +717,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
-              "projectPath": "E:\\Architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj"
             },
-            "E:\\Architecture\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "E:\\Architecture\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj": {
-              "projectPath": "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
             },
-            "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
-              "projectPath": "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
             }
           }
         }

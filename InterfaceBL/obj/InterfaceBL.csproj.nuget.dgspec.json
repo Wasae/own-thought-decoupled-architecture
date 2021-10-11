@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj": {}
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {}
   },
   "projects": {
-    "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
         "projectName": "InterfaceBL",
-        "projectPath": "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Architecture\\InterfaceBL\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

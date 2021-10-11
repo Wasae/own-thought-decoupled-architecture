@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUB4/8ryaFSSGWWjcRBL6nWiFK+XHOhDHEsx9lB7vyPy/vY53xnxCWK8NP94AVc8uo8ulhHe8457849dn3RZaw==",
+  "dgSpecHash": "15uIQ6Z7WXk7TpHF1+7NX5HqYj5WWrMZvEVriuYJlBe2m5x34SLBHHbHr/xeAEHZzGhU+VXEftmXtiLa7bGRpw==",
   "success": true,
-  "projectFilePath": "E:\\Architecture\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,15 @@ E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInput
 E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
 E:\Architecture\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
 E:\Architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb

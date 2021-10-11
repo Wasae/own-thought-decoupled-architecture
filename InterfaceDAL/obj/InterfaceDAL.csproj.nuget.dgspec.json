@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj": {}
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {}
   },
   "projects": {
-    "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
         "projectName": "InterfaceDAL",
-        "projectPath": "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Architecture\\InterfaceDAL\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

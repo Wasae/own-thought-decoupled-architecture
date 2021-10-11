@@ -1,0 +1,369 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\CommonUIHelper\\CommonUIHelper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+        "projectName": "AoDotNetDAL",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\CommonUIHelper\\CommonUIHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\CommonUIHelper\\CommonUIHelper.csproj",
+        "projectName": "CommonUIHelper",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\CommonUIHelper\\CommonUIHelper.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\CommonUIHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
+              },
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+              },
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
+        "projectName": "InterfaceBL",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "projectName": "InterfaceDAL",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
+        "projectName": "ObjectFactory",
+        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj"
+              },
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj"
+              },
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
+              },
+              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Unity.Container": {
+              "target": "Package",
+              "version": "[5.11.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

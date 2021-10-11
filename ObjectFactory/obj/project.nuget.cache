@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFSD1ajiotTXaV7Ij1DvS/5rIirqbAPSZyyEhAcS6bJmsfx9v4XFBY4p8bRWjfN1JwYMjtYYsbih92g6lOIGKw==",
+  "dgSpecHash": "Qs+OXKw4H/WNs0vhjMUwW4a7CllOPW17uSQcM65Cun9PpMHRiMRd5XTlEFvNyP79QvGasppvtoqQyy+PuWihKQ==",
   "success": true,
-  "projectFilePath": "E:\\Architecture\\ObjectFactory\\ObjectFactory.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

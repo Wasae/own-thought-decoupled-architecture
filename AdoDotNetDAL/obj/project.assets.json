@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
       "projectName": "AoDotNetDAL",
-      "projectPath": "E:\\Architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Architecture\\AdoDotNetDAL\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -497,8 +497,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
-              "projectPath": "E:\\Architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
             }
           }
         }

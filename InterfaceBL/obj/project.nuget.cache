@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M06b5gJqTipJvGRrTTnkcQZ0AN2gN/AYZeUvzTbgeKoYPYehgnh4ZN4fadlNArVCorZCINFdjNzLbrHWT9yU6g==",
+  "dgSpecHash": "TpD4XAga5g2tC+n91vwx6A9VEwDK/6aFPrDTlx0nPDetbgVk2FjWOtCMBn1UaipEoLlum+2nKI7HqGHVqrqTAw==",
   "success": true,
-  "projectFilePath": "E:\\Architecture\\InterfaceBL\\InterfaceBL.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
