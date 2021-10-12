@@ -24,17 +24,19 @@ namespace CommonUI
 {
     public class Startup
     {
+
+        String[] validDomains;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
 
+        readonly string _validOrigins = "_validOrigins";
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllers();
             services.AddAuthentication(x =>
             {
@@ -52,7 +54,16 @@ namespace CommonUI
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Configuration.GetSection("jwtkey").Value.ToString()))
                 };
             });
-
+            services.AddCors( options =>{
+                options.AddPolicy(
+                    name : _validOrigins,
+                    builderpolicy =>{
+                        builderpolicy
+                        .AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+                    });
+            });
             services.AddSingleton<IAuth,Auth>();
             services.AddSwaggerGen(c =>
             {
@@ -73,6 +84,26 @@ namespace CommonUI
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors(_validOrigins);
+
+            app.Use((context,next) => {
+                validDomains = Configuration
+                                .GetSection("validDomains")
+                                .GetChildren()
+                                .Select(x => x.Value)
+                                .ToArray();
+                if (validDomains.Count() != 0)
+                {
+                    int validDomainCount = validDomains.Where(x => x.ToLower().Equals(context.Request.Host.Value.ToLower())).Count();
+                    if (validDomainCount == 0)
+                    {
+                        context.Response.StatusCode = (int)System.Net.HttpStatusCode.Forbidden;
+                        return System.Threading.Tasks.Task.FromResult<object>(null);
+                    }   
+                }                
+                return next();
+            });
 
             app.UseAuthentication();
 
