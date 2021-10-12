@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.deps.json
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\ref\AuthLayer.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.pdb
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfo.cs
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
+C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb
