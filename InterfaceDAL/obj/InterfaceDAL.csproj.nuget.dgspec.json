@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {}
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj",
         "projectName": "InterfaceDAL",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

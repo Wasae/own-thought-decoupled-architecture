@@ -21,12 +21,12 @@ namespace InterfaceDAL.Service
             
         }
 
-        public virtual DataTable getTable(Dictionary<string,string> parameters,string spname)
+        public virtual Task<DataTable> getTable(Dictionary<string,string> parameters,string spname)
         {
             return null;
         }
 
-        public virtual DataSet getTables(Dictionary<string,string> parameters,string spname)
+        public virtual Task<DataSet> getTables(Dictionary<string,string> parameters,string spname)
         {
             return null;
         }

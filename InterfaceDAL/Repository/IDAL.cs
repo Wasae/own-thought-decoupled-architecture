@@ -10,7 +10,7 @@ namespace InterfaceDAL.Repository
     public interface IDAL
     {
         void PushOrUpdate(Dictionary<string,string> parameters,string spname);
-        DataTable getTable(Dictionary<string,string> parameters, string spname);
-        DataSet getTables(Dictionary<string,string> parameters, string spname);
+        Task<DataTable> getTable(Dictionary<string,string> parameters, string spname);
+        Task<DataSet> getTables(Dictionary<string,string> parameters, string spname);
     }
 }

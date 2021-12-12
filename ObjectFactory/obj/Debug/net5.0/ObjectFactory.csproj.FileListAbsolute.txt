@@ -40,3 +40,86 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\ObjectFactor
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ref\ObjectFactory.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\ObjectFactory.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\ObjectFactory.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\ref\ObjectFactory.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\ObjectFactory.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ref\ObjectFactory.dll
+D:\MATPROC API\own-thought-decoupled-architecture\ObjectFactory\obj\Debug\net5.0\ObjectFactory.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.deps.json
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ref\ObjectFactory.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CopyComplete
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ref\ObjectFactory.dll
+D:\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ref\ObjectFactory.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CopyComplete
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ref\ObjectFactory.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ref\ObjectFactory.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ref\ObjectFactory.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\ObjectFactory\obj\Debug\net5.0\ObjectFactory.csproj.CopyComplete

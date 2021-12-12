@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj": {}
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\ObjectFactory\\ObjectFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\AoDotNetDAL.csproj",
         "projectName": "AoDotNetDAL",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\AoDotNetDAL.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
@@ -62,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -88,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj"
               }
             }
           }
@@ -118,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj",
         "projectName": "InterfaceBL",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -170,21 +174,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj",
         "projectName": "InterfaceDAL",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -228,21 +232,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj": {
+    "D:\\Wasae\\MATPROC API\\PartnerAPI\\ObjectFactory\\ObjectFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
+        "projectUniqueName": "D:\\Wasae\\MATPROC API\\PartnerAPI\\ObjectFactory\\ObjectFactory.csproj",
         "projectName": "ObjectFactory",
-        "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\ObjectFactory.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\ObjectFactory\\obj\\",
+        "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\ObjectFactory\\ObjectFactory.csproj",
+        "packagesPath": "C:\\Users\\ABCD\\.nuget\\packages\\",
+        "outputPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\ObjectFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABCD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -254,17 +258,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\AdoDotNetDAL\\AoDotNetDAL.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\AoDotNetDAL.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\AdoDotNetDAL\\AoDotNetDAL.csproj"
               },
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\BusinessLogic\\BusinessLogic.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceBL\\InterfaceBL.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceBL\\InterfaceBL.csproj"
               },
-              "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj": {
-                "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\own-thought-decoupled-architecture\\InterfaceDAL\\InterfaceDAL.csproj"
+              "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj": {
+                "projectPath": "D:\\Wasae\\MATPROC API\\PartnerAPI\\InterfaceDAL\\InterfaceDAL.csproj"
               }
             }
           }
@@ -303,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,47 @@
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\bin\Debug\net5.0\UtilityDTO.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\bin\Debug\net5.0\UtilityDTO.dll
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\bin\Debug\net5.0\ref\UtilityDTO.dll
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\bin\Debug\net5.0\UtilityDTO.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.dll
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\ref\UtilityDTO.dll
+D:\MATPROC API\own-thought-decoupled-architecture\UtilityDTO\obj\Debug\net5.0\UtilityDTO.pdb
+D:\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.deps.json
+D:\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.dll
+D:\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\ref\UtilityDTO.dll
+D:\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.pdb
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.dll
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\ref\UtilityDTO.dll
+D:\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\ref\UtilityDTO.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\ref\UtilityDTO.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\ref\UtilityDTO.dll
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\bin\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\ref\UtilityDTO.dll
+D:\Wasae\MATPROC API\PartnerAPI\UtilityDTO\obj\Debug\net5.0\UtilityDTO.pdb

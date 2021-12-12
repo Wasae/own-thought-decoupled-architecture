@@ -63,3 +63,233 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\CommonUI\bin
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\appsettings.Development.json
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\appsettings.json
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.exe
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.json
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.dev.json
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\ref\CommonUI.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUI.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Unity.Abstractions.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\Unity.Container.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\AuthLayer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUIHelper.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\InterfaceDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\ObjectFactory.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\UtilityDTO.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\CommonUIHelper.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\AuthLayer.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\UtilityDTO.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\bin\Debug\net5.0\ObjectFactory.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.Manifest.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.xml
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\scopedcss\bundle\CommonUI.styles.css
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.RazorTargetAssemblyInfo.cache
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CopyComplete
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\ref\CommonUI.dll
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\CommonUI\obj\Debug\net5.0\CommonUI.genruntimeconfig.cache
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\appsettings.Development.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\appsettings.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.exe
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.dev.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ref\CommonUI.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\MySql.Data.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ZstdNet.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Unity.Abstractions.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Unity.Container.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUIHelper.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUIHelper.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.Manifest.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.xml
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\scopedcss\bundle\CommonUI.styles.css
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.RazorTargetAssemblyInfo.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CopyComplete
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\ref\CommonUI.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.genruntimeconfig.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\ref\CommonUI.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\appsettings.Development.json
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\appsettings.json
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.exe
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.json
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.runtimeconfig.dev.json
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ref\CommonUI.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUI.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\MySql.Data.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ZstdNet.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Unity.Abstractions.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\Unity.Container.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUIHelper.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ObjectFactory.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\UtilityDTO.dll
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\CommonUIHelper.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\UtilityDTO.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\bin\Debug\net5.0\ObjectFactory.pdb
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.Manifest.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\staticwebassets\CommonUI.StaticWebAssets.xml
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\scopedcss\bundle\CommonUI.styles.css
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.RazorTargetAssemblyInfo.cache
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.csproj.CopyComplete
+D:\Wasae\MATPROC API\PartnerAPI\CommonUI\obj\Debug\net5.0\CommonUI.genruntimeconfig.cache

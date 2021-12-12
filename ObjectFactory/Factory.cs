@@ -1,39 +1,43 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using InterfaceDAL.Repository;
-using InterfaceDAL.Service;
-using AdoDotNetDAL.Template;
 using Microsoft.Extensions.Configuration;
+using AdoDotNetDAL.Template;
+using BusinessLogic;
+using InterfaceBL.Repository;
 
 namespace ObjectFactory
 {
     public class Factory
     {
         // Design Pattern : Lazy Loading,RIP(Replace If with Polymrphism), Simple Factory
-        private static IConfiguration _configuration = null;
-        public static Dictionary<string,object> objfactory = null;
-        public Factory(IConfiguration configuration)
+        public static object Create(string type,IConfiguration _configuration)
         {
-            _configuration = configuration;
-        }
-
-        public static object Create(string type)
-        {
-            if (objfactory == null)
+            if (type == "MySqlDAL")
             {
-                objfactory = new Dictionary<string,object>();
-                objfactory.Add("DAL",new SQLServerAdoDotNetDAL(Convert.ToString(_configuration
-                                                                                    .GetSection("ConnectionStrings")
-                                                                                    .GetSection("DbConnection")
-                                                                                    .Value)));
+                return new MySQLAdoDotNetDAL(Convert.ToString(_configuration
+                                                              .GetSection("ConnectionStrings")
+                                                              .GetSection("DbConnection")
+                                                              .Value));
             }
-            return objfactory[type];
+            else if(type == "Sql"){
+                return new SQLServerAdoDotNetDAL(Convert.ToString(_configuration
+                                                              .GetSection("ConnectionStrings")
+                                                              .GetSection("DbConnection")
+                                                              .Value));
+            }
+            else if (type == "Products")
+            {
+                return new Product();
+            }
+            else if (type == "Users")
+            {
+                return new User();
+            }
+            else if (type=="RFQ")
+            {
+                return new RFQ();
+            }
+            return null;
         }
 
-        public static Dictionary<string,object> FillFactory()
-        {
-            return objfactory;
-        }
     }
 }

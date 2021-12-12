@@ -22,3 +22,51 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+D:\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\ref\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\ref\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\InterfaceBL\obj\Debug\net5.0\InterfaceBL.pdb

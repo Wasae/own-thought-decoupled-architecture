@@ -28,3 +28,61 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AdoDotNetDAL
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.deps.json
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.dll
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CopyComplete
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\AoDotNetDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\bin\Debug\net5.0\InterfaceDAL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.csproj.CopyComplete
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\ref\AoDotNetDAL.dll
+D:\Wasae\MATPROC API\PartnerAPI\AdoDotNetDAL\obj\Debug\net5.0\AoDotNetDAL.pdb

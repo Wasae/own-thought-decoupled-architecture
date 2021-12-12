@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace AdoDotNetDAL.Template
 {
@@ -93,12 +94,12 @@ namespace AdoDotNetDAL.Template
            ExecuteNonQuery(parameters,spname);
         }
 
-        public override DataTable getTable(Dictionary<string,string> parameters,string spname)
+        async public override Task<DataTable> getTable(Dictionary<string,string> parameters,string spname)
         {
             return ExecuteDataTable(parameters,spname);
         }
 
-        public override DataSet getTables(Dictionary<string,string> parameters,string spname)
+        async public override Task<DataSet> getTables(Dictionary<string,string> parameters,string spname)
         {
             return ExecuteDataSet(parameters,spname);
         }

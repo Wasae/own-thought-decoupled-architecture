@@ -10,3 +10,51 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\ob
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\ref\AuthLayer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\bin\Debug\net5.0\AuthLayer.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
+D:\MATPROC API\own-thought-decoupled-architecture\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb
+D:\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.deps.json
+D:\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.dll
+D:\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\ref\AuthLayer.dll
+D:\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.pdb
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
+D:\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\ref\AuthLayer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\ref\AuthLayer.dll
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\bin\Debug\net5.0\AuthLayer.pdb
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.dll
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\ref\AuthLayer.dll
+D:\Wasae\MATPROC API\PartnerAPI\AuthLayer\obj\Debug\net5.0\AuthLayer.pdb

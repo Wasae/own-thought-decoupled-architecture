@@ -28,3 +28,61 @@ C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\BusinessLogi
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
 C:\Users\lenovo\Documents\GitHub\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\MATPROC API\own-thought-decoupled-architecture\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.dll
+D:\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.pdb
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\Wasae\MATPROC API\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.dll
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\bin\Debug\net5.0\InterfaceBL.pdb
+D:\Wasae\MATPROC API\PartnerAPI\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
